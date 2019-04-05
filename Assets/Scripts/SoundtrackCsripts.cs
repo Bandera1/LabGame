@@ -21,7 +21,7 @@ public class SoundtrackCsripts : MonoBehaviour
         if (!source.isPlaying)
         {
             int buf = count;
-            while(count != buf)
+            while(count == buf)
                 count = Random.Range(0, clips.Length);
             
             source.PlayOneShot(clips[count]);
