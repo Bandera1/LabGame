@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: EagleStudio
-  productName: Labyrinth War
+  productName: LockedUp
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.23584908, g: 0.10261311, b: 0.03893734, a: 1}
